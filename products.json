@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "name":" phone modle 1",
+        "price": 200,
+        "image": "img/11.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, voluptates. Dignissimos veritatis recusandae officiis quod ratione numquam quas veniam fugiat aliquam, blanditiis inventore quisquam porro neque! Repudiandae, aspernatur ad non a iusto natus reiciendis?sit amet, consectetur ."
+    },
+    {
+       "id": 2,
+        "name":" phone model 2",
+        "price": 250,
+        "image": "img/12.png",
+        "description":  "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, voluptates. Dignissimos veritatis recusandae officiis quod ratione numquam quas veniam fugiat aliquam, blanditiis inventore quisquam porro neque! Repudiandae, aspernatur ad non a iusto natus reiciendis?sit amet, consectetur ."
+    },
+    {
+        "id": 3,
+        "name":" phone model 3",
+        "price": 290,
+        "image": "img/13.png",
+        "description":  "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, voluptates. Dignissimos veritatis recusandae officiis quod ratione numquam quas veniam fugiat aliquam, blanditiis inventore quisquam porro neque! Repudiandae, aspernatur ad non a iusto natus reiciendis?sit amet, consectetur ."
+    },
+    {
+        "id": 4,
+        "name":" phone model 4",
+        "price": 200,
+        "image": "img/14.png",
+        "description":  "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, voluptates. Dignissimos veritatis recusandae officiis quod ratione numquam quas veniam fugiat aliquam, blanditiis inventore quisquam porro neque! Repudiandae, aspernatur ad non a iusto natus reiciendis?sit amet, consectetur ."
+    },
+    {
+        "id": 5,
+        "name":" phone model 5",
+        "price": 300,
+        "image": "img/15.png",
+        "description":  "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, voluptates. Dignissimos veritatis recusandae officiis quod ratione numquam quas veniam fugiat aliquam, blanditiis inventore quisquam porro neque! Repudiandae, aspernatur ad non a iusto natus reiciendis?sit amet, consectetur ."
+    },
+    {
+        "id": 6,
+        "name":" phone model 6",
+        "price": 200,
+        "image": "img/16.png",
+        "description":  "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, voluptates. Dignissimos veritatis recusandae officiis quod ratione numquam quas veniam fugiat aliquam, blanditiis inventore quisquam porro neque! Repudiandae, aspernatur ad non a iusto natus reiciendis?sit amet, consectetur ."
+    },
+    {
+        "id": 7,
+        "name":" phone model 7",
+        "price": 200,
+        "image": "img/17.png",
+        "description":  "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, voluptates. Dignissimos veritatis recusandae officiis quod ratione numquam quas veniam fugiat aliquam, blanditiis inventore quisquam porro neque! Repudiandae, aspernatur ad non a iusto natus reiciendis?sit amet, consectetur ."
+    },
+    {
+        "id": 8,
+        "name":" phone model 8",
+        "price": 200,
+        "image": "img/18.png",
+        "description":  "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, voluptates. Dignissimos veritatis recusandae officiis quod ratione numquam quas veniam fugiat aliquam, blanditiis inventore quisquam porro neque! Repudiandae, aspernatur ad non a iusto natus reiciendis?sit amet, consectetur ."
+    }
+
+]
